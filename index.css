@@ -1,0 +1,12 @@
+body {
+    font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+    font-size: small;
+    padding: 0;
+    margin: 10;
+    background-color: #f4f3ef;
+    background-image: url('creesch.jpg');	
+    background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center;
+
+}
