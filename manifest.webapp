@@ -1,7 +1,7 @@
 {
   "name": "Irc Cloud",
   "description": "testingstuff",
-  "launch_path": "/test2.html",
+  "launch_path": "https://www.irccloud.com",
   "icons": {
     "128": "128x128.png",
     "60": "60x60.png",
