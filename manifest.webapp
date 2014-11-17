@@ -1,7 +1,7 @@
 {
   "name": "Irc Cloud",
   "description": "testingstuff",
-  "launch_path": "",
+  "launch_path": "/",
   "installs_allowed_from": [
     "*"
   ],
